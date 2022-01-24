@@ -9,12 +9,13 @@ Our weekly meet-ups are as follows:
   - 5 min presentation
   - 5 min Q&A sesion
 
-The theme of the week is voted every week, and there is no format set for each presentation.
+The theme of the week is voted every week, and each presenter can freely choose their topic.
 
-The topic can vary from the fundamental theories, different approaches in evaluation or the applications of the state-of-the-art models - to each their own! 
+The topic can be the fundamental theories of ML/AI, applications of the state-of-the-art models, or any topic that you want to know more about.
 
-We welcome anyone working in a field of Data Science, or wish to know more about ML & AI. Let us know if you're interested.
+We welcome anyone working in a field of Data Science, or wish to learn more about ML & AI. If you're interested, please contact us at tadatascience@gmail.com.
 
+Thanks!
 
 <br/>
 
