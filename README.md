@@ -15,8 +15,6 @@ The topic can be the fundamental theories of ML/AI, applications of the state-of
 
 We welcome anyone working in a field of Data Science, or wish to learn more about ML & AI. If you're interested, please contact us at tadatascience@gmail.com.
 
-Thanks!
-
 <br/>
 
 <img src=/tada-logos2.jpeg />
