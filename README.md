@@ -9,9 +9,11 @@ Our weekly meet-ups are as follows:
   - 5 min presentation
   - 5 min Q&A sesion
 
-The topic of the week is decided the previous week, and each presentation can vary from the fundamental theories behind the topic, different approaches in evaluation, or the applications of the state-of-the-art models - to each their own! 
+The theme of the week is voted every week, and there is no format set for each presentation.
 
-We welcome anyone working in a field of Data Science, or wish to know more about ML & AI.
+The topic can vary from the fundamental theories, different approaches in evaluation or the applications of the state-of-the-art models - to each their own! 
+
+We welcome anyone working in a field of Data Science, or wish to know more about ML & AI. Let us know if you're interested.
 
 
 <br/>
