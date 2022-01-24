@@ -13,7 +13,9 @@ The theme of the week is voted every week, and each presenter can freely choose 
 
 - The topic can be the fundamental theories of ML/AI, applications of the state-of-the-art models, or any topic that you simply want to learn more about.
 
-We welcome anyone working in a field of Data Science, or wish to learn more about ML & AI. If you're interested, please contact us at tadatascience@gmail.com.
+We welcome anyone working in a field of Data Science, or wish to learn more about ML & AI. 
+
+If you're interested, please contact us at tadatascience@gmail.com.
 
 <br/>
 
