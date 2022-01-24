@@ -9,6 +9,6 @@ We have weekly meetings where each of us present for 5 min on the topic of the w
 ```If you're working in a field of Data Science, or wish to know more about the theory and applications of AI - feel free to join us!```
 
 
---
+<br/>
 
 <img src=/tada-logos2.jpeg />
