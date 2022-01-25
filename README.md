@@ -3,7 +3,7 @@
 ### Hi, there!
 **TADA** is a community of people interested in Data Analytics & Science, and its endless possibilities. :)
 
-Our weekly meet-ups (@Zoom) are as follows:
+We have our weekly meet-ups on Zoom to discuss about diverse topics on DA/DS. The details are as follows:
 - Every Saturday @ 11 am - (GMT+9)
 - Total 10 minutes of presentation for each person
   - 5 min presentation
