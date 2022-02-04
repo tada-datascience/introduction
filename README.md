@@ -15,7 +15,7 @@ The theme of the week is voted every week, and each presenter can freely choose 
 
 We welcome anyone working in the field of Data Science, or anyone who is passionate about ML & AI. 
 
-If you're interested, please contact us at tadatascience@gmail.com.
+If interested, please contact us at tadatascience@gmail.com.
 
 <br/>
 
