@@ -1,13 +1,13 @@
 # TADA : Talk About Data Analytics
 
 ### Hi, there!
-**TADA** is a community of people interested in Data Analytics & Science, and its endless possibilities. :)
+**TADA** is a community of people interested in Data Analytics & Science. :)
 
 We have our weekly meet-ups on Zoom to discuss about diverse topics on DA/DS. The details are as follows:
 - Every Saturday @ 11 am - (GMT+9)
 - Total 10 minutes of presentation for each person
-  - 5 min presentation
-  - 5 min Q&A sesion
+  - 15 min presentation
+  - 10 min Q&A sesion
 
 The theme of the week is voted every week, and each presenter can freely choose their own topic.
 
